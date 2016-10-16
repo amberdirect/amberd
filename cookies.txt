@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+amberdirect.weebly.com	TRUE	/	FALSE	1999999999	is_mobile	0
+.quantserve.com	TRUE	/	FALSE	1999999999	mc	58037c45-1b9af-efbd1-21008
+amberdirect.weebly.com	TRUE	/	FALSE	1999999999	language	en
+
